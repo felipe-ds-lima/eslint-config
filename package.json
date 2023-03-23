@@ -1,6 +1,6 @@
 {
   "name": "@felipe-ds-lima/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "Felipe's default lint",
   "main": "index.js",
@@ -25,6 +25,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.6",
     "typescript": "*"
   },
   "peerDependencies": {

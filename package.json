@@ -7,7 +7,7 @@
   "repository": {
     "url": "felipe-ds-lima/eslint-config"
   },
-  "author": "Felipe Lima <contato@felipedslima.com>",
+  "author": "Felipe Lima <contato@felipedslima.com.br>",
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.43.0",
@@ -25,12 +25,10 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "prettier": "^2.8.6",
     "typescript": "*"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
-    "prettier": "^2.8.6",
     "typescript": ">=3.3.1"
   },
   "peerDependenciesMeta": {

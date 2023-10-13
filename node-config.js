@@ -90,6 +90,7 @@ module.exports = {
         ts: "never",
       },
     ],
+    "@typescript-eslint/strict-boolean-expressions": "off",
   },
   settings: {
     "import/parsers": {

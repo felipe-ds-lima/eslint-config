@@ -4,9 +4,13 @@ My eslint default configs for typescript node and react and prettier
 
 ### How to use
 Install the package
-`npm i --dev @felipe-ds-lima/eslint-config`
+```bash
+npm i --dev @felipe-ds-lima/eslint-config
+```
 or
-`yarn -D @felipe-ds-lima/eslint-config`
+```bash
+yarn -D @felipe-ds-lima/eslint-config
+```
 If you get some error, upgrade the typescript version to >=3.3.1
 
 Create the `.eslint.json` file:
